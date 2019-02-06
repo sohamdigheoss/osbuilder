@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
-From fedora:27
+From clearlinux:latest
 
 @SET_PROXY@
 
